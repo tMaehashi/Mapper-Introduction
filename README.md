@@ -5,7 +5,7 @@ Please install [Kepler Mapper](https://kepler-mapper.scikit-tda.org/en/latest/).
 We can use mapper for single cell RNA-seq data analysis. Please download file from [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/).
 
 ## About TDA Mapper
-
+![Mapper](image/mapper.png)
 
 ### Reference
 [1] E. Amézquita, M. Quigley, T. A. Ophelders, E. Munch, and D. Chitwood. The shape of things to come: Topological Data Analysis and biology, from molecules to organisms. Developmental dynamics, 249(7):816–833, 2020.  
