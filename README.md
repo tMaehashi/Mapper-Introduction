@@ -8,7 +8,7 @@ We can use mapper for single cell RNA-seq data analysis. Please download file fr
 ![Mapper](image/mapper.png)
 
 ## Another Example (Classification)
-### iris dataset
+### Iris Dataset
 ![iris](image/iris.png)
 
 
