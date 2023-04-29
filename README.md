@@ -2,7 +2,7 @@
 Please install [Kepler Mapper](https://kepler-mapper.scikit-tda.org/en/latest/).
 
 ## TDA Mapper
-![Mapper](image/mapper.jpg)
+![Mapper](image/mapper.png)
 
 ## About single_cell directory
 We can use mapper for single cell RNA-seq data analysis. Please download file from [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/).
